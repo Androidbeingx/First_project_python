@@ -12,5 +12,5 @@ The aim of this project was to create a drawing using turtle. We've made a drawi
 ### This project contains
 
 - A file with code for each person of the group.
-- A main file to call alñ the functions at the same place
+- A main file to call all the functions at the same place.
 - A utilities file to define general functions that can be used in every file.
